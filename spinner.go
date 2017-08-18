@@ -1,4 +1,6 @@
-//gospinner show spinner
+//This is show spinner in terminal.
+//Insert into code
+//go func gospinner.Spinner()
 package gospinner
 
 import (
