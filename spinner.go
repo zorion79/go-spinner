@@ -1,3 +1,4 @@
+//gospinner show spinner
 package gospinner
 
 import (
@@ -5,6 +6,7 @@ import (
 	"time"
 )
 
+//Spinner() run spinner
 func Spinner() {
 	for {
 		for _, r := range `-\|/` {

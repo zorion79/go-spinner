@@ -1,4 +1,4 @@
 # go-spinner
 
-This is spinc func
--\|/
+This is spinner func
+-\\|/
