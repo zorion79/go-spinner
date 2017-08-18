@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func spinner() {
+func Spinner() {
 	for {
 		for _, r := range `-\|/` {
 			fmt.Printf("\r%c", r)
