@@ -1,4 +1,4 @@
-package go_spinner
+package gospinner
 
 import (
 	"fmt"
