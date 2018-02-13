@@ -1,4 +1,4 @@
-//This is show spinner in terminal.
+//Package gospinner show spinner in terminal.
 //Insert into code
 //go func gospinner.Spinner()
 package gospinner
@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-//Spinner() run spinner
+//Spinner run spinner
 func Spinner() {
 	for {
 		for _, r := range `-\|/` {
